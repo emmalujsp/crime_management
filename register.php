@@ -1,4 +1,9 @@
-#NamithaEdit
+<<<<<<< HEAD
+#editlinenew_sandra edit
+Namitha Antony
+=======
+#editlinenew
+>>>>>>> parent of 29e43d5... Namitha
 <?php
 $name=$_REQUEST["name"];
 $email=$_REQUEST["email"];
